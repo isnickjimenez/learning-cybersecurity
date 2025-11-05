@@ -5,22 +5,24 @@
 ### 📚 Estructura de Conocimiento
 
 Redes <br>
- └─ Sistemas Operativos /n 
-     └─ Programación \n
-          └─ Ciberseguridad \n
+ └─ Sistemas Operativos <br>
+     └─ Programación <br>
+          └─ Ciberseguridad <br>
 
 
 > Es una escala de conocimiento para llegar al objetivo final: **la Ciberseguridad.**
 
 ---
 
-## 🏢 SOC — Security Operations Center  
-**Centro de Operaciones de Seguridad**
+## REDES 
+
+### SOC — Security Operations Center (Centro de Operaciones de Seguridad)**
 
 El **SOC** es el núcleo encargado de **monitorear, detectar, responder y prevenir incidentes de seguridad.**  
 Su objetivo principal es **proteger los activos digitales**, garantizar su integridad y **coordinar las acciones ante amenazas cibernéticas.**
 
 ---
+
 
 ## 🌐 Fundamentos de Redes de Computadoras
 
