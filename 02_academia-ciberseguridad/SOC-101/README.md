@@ -4,8 +4,8 @@
 ---
 ### 📚 Estructura de Conocimiento
 
-Redes \n
- └─ Sistemas Operativos \n 
+Redes <br>
+ └─ Sistemas Operativos /n 
      └─ Programación \n
           └─ Ciberseguridad \n
 
