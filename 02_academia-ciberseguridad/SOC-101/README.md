@@ -4,10 +4,10 @@
 ---
 ### 📚 Estructura de Conocimiento
 
-Redes 
- └─ Sistemas Operativos 
-     └─ Programación 
-          └─ Ciberseguridad
+Redes \n
+ └─ Sistemas Operativos \n 
+     └─ Programación \n
+          └─ Ciberseguridad \n
 
 
 > Es una escala de conocimiento para llegar al objetivo final: **la Ciberseguridad.**
