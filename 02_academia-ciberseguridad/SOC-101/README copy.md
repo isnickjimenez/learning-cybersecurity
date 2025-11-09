@@ -133,15 +133,6 @@ CIFRADO DE RED:  Protege los datos en transmicion convirtiendolo en codgio que s
 SIEM
 
 
-EJERCIOSOS
-
- - clonamos el git y inicimoas segun el paso
- - entramos al archivo de laboratirio 
- - damos permiso de ejecucion a archivo manage_soc101.sh
- - seguimos comandos del git setup y levantamiento 
-
- - abrir shiwarwk
-
 
 
 SEGURIDAD DE WINDOWS
